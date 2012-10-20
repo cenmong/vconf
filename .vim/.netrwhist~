@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/chenmeng/Downloads/Dominic---MiddleBox-65588fe/bin'
 let g:netrw_dirhist_2='/home/chenmeng/inoold/group'
 let g:netrw_dirhist_3='/home/chenmeng/inoold/activity'
+let g:netrw_dirhist_4='/home/chenmeng/inoold/user_profile'
