@@ -1,3 +1,14 @@
+set nocompatible
+set backspace=indent,eol,start
+set backup
+set history=50
+set ruler
+set showcmd
+set incsearch
+set mouse=a
+set hlsearch
+set autoindent
+
 let Tlist_Auto_Highlight_Tag = 1
 let Tlist_Auto_Open = 1
 let Tlist_Auto_Update = 1

@@ -1,6 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/chenmeng/Downloads/Dominic---MiddleBox-65588fe/bin'
 let g:netrw_dirhist_2='/home/chenmeng/inoold/group'
 let g:netrw_dirhist_3='/home/chenmeng/inoold/activity'
 let g:netrw_dirhist_4='/home/chenmeng/inoold/user_profile'
+let g:netrw_dirhist_5='/home/chenmeng/footbook/main/lib'
+let g:netrw_dirhist_6='/home/chenmeng/.vim'
+let g:netrw_dirhist_7='/home/chenmeng/inoold'
+let g:netrw_dirhist_8='/home/chenmeng/inoold/stadium'
+let g:netrw_dirhist_9='/home/chenmeng/sxbbm/bbm_django/templates/messages'
